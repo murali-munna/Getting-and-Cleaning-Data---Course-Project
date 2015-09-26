@@ -19,7 +19,7 @@ The script "run_analysis.R" will extract and perform the following analysis in t
 
 5. Combines the data to form a complete dataset.
 
-6. Extract th freatures which includes only the mean and standard deviation features.
+6. Extract th features which includes only the mean and standard deviation features.
 
 7. Converts the activity names into factors and uses descriptive activity names.
 
